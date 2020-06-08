@@ -1,0 +1,117 @@
+<html><head>
+<title>Vacations Management Site - Growth Acceleration Partners</title>
+<link href="/assets/application-dff09b0290a5c38f946dd06632ad671f.css" media="all" rel="stylesheet" type="text/css">
+<script src="/assets/application-916faa0c407c302bd5eefcd8ee9056ef.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="a8eXguJCB0KAAlW9Iei888FJQ/FPQas59TwS/sUIISQ=" name="csrf-token">
+
+</head>
+<body>
+<div id="main">
+<div id="header">
+<div id="logo">
+<div id="logo_text">
+<h1>
+<a href="/"><img alt="GAP Vacations Management" src="/assets/site_title-34b060c1996fa36129429fcfb794655a.png"></a>
+</h1>
+</div>
+</div>
+<div id="menubar">
+<ul id="menu">
+<li class="selected">
+<a href="/employees">Employees Information</a>
+</li>
+<li>
+<a href="/users">Administrative Users</a>
+</li>
+<li>
+<a href="/my_account">My Account</a>
+</li>
+</ul>
+<ul id="user_information">
+<span>Welcome gap, <a href="/users/sign_out" data-method="delete" rel="nofollow">Logout</a></span>
+</ul>
+</div>
+
+</div>
+<div id="content_header"></div>
+<div id="site_content">
+<div id="content">
+<p id="notice">Employee was successfully created.</p>
+<p>
+<b>First name:</b>
+James
+</p>
+<p>
+<b>Last name:</b>
+Smith
+</p>
+<p>
+<b>Email:</b>
+prueba@gap.com
+</p>
+<p>
+<b>Identification:</b>
+1234567890
+</p>
+<p>
+<b>Leader name:</b>
+Miguel Velez
+</p>
+<p>
+<b>Start working on:</b>
+01/21/2015
+</p>
+<h1>Employee vacations report</h1>
+<table class="employees_table">
+<tbody><tr>
+<th>Days</th>
+<th>Description</th>
+<th>Date of Request</th>
+<th>Since Date</th>
+<th>Until Date</th>
+<th></th>
+</tr>
+<tr>
+<td class="green">+64</td>
+<td>Monthly based vacations since 01/21/2015</td>
+<td> -- </td>
+<td> -- </td>
+<td> -- </td>
+<td> -- </td>
+</tr>
+<tr style="border-top:2px solid black;">
+<td>
+<strong>64</strong>
+</td>
+<td>
+<strong>Total Amount of vacations left</strong>
+</td>
+<td> -- </td>
+<td> -- </td>
+<td> -- </td>
+<td> -- </td>
+</tr>
+</tbody></table>
+
+<br>
+<a href="/employees/4309/edit">Edit employee</a>
+|
+<a href="/employees/4309/vacations/new">Add/Request Vacations</a>
+|
+<a href="/employees">Back</a>
+
+</div>
+</div>
+<div id="footer">
+<p>
+<a href="http://www.growthaccelerationpartners.com" title="Go to Growth Acceleration Partners Site">Growth Acceleration Partners</a>
+|
+<a href="http://validator.w3.org/check?uri=referer" title="HTML5">HTML5</a>
+</p>
+</div>
+<p>&nbsp;</p>
+</div>
+
+
+</body></html>
